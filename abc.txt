@@ -1,0 +1,7 @@
+This is my first file in the demo.
+
+trying to show how git status works after initial commit.
+
+
+
+this is to show how merge works
